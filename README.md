@@ -8,7 +8,7 @@
 - SQLAlchemy
 - SQLite
 
-### Описание проекта  
+### Description
 
 This project helps to track and automatically distribute the donations to the projects in the order in which they were added to the database.
 
